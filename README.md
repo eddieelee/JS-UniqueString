@@ -1,0 +1,2 @@
+# JS-UniqueString
+JS-UniqueString
